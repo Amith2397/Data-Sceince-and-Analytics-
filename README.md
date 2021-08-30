@@ -1,6 +1,4 @@
 # Data-Science-and-Analytics-
-Developed these scripts for a course in College. 
-
 
 Copyright Statement:
 
